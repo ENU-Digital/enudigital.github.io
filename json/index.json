@@ -73,7 +73,7 @@
                     "background": "#0000ff"
                   },
 				   "href": {
-				     "url": "https://nageshksn.github.io/json/camera.json",
+				     "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/camera.json",
                      "view": "json"
                    }
                  }

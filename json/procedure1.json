@@ -134,7 +134,7 @@
                                                                 "width": "150"
                                                             },
                                                             "href": {
-                                                                "url": "https://nageshksn.github.io/json/Zoom.json",
+                                                                "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/Zoom.json",
                                                                 "options": {
                                                                     "file_name": "file://procedure1Pic1.jpeg"
                                                                 }
@@ -230,7 +230,7 @@
 
                                                                     },
                                                                     "href": {
-                                                                        "url": "https://nageshksn.github.io/json/workflow.json",
+                                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/workflow.json",
                                                                         "view": "jason"
                                                                     }
                                                                 }, {
@@ -249,7 +249,7 @@
 
                                                                     },
                                                                     "href": {
-                                                                        "url": "https://nageshksn.github.io/json/procedure2.json",
+                                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/procedure2.json",
                                                                         "view": "jason"
                                                                     }
                                                                 }]

@@ -233,7 +233,7 @@
         
                                                                         },
                                                                         "href": {
-                                                                            "url": "https://nageshksn.github.io/json/procedure2.json",
+                                                                            "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/procedure2.json",
                                                                             "view": "jason"
                                                                         }
                                                                     }, {
@@ -252,7 +252,7 @@
         
                                                                         },
                                                                         "href": {
-                                                                            "url": "https://nageshksn.github.io/json/procedureCompleted.json",
+                                                                            "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/procedureCompleted.json",
                                                                             "view": "jason"
                                                                         }
                                                                     }   
