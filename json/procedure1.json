@@ -136,7 +136,7 @@
                                                             "href": {
                                                                 "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/Zoom.json",
                                                                 "options": {
-                                                                    "file_name": "file://procedure1Pic1.jpeg"
+                                                                    "file_name": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/procedure1Pic1.jpeg"
                                                                 }
                                                             }
 
@@ -146,7 +146,7 @@
                                                     {
 
                                                         "type": "image",
-                                                        "url": "file://procedure1Pic1.jpeg"
+                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/procedure1Pic1.jpeg"
                                                     },
                                                     {
                                                         "type": "horizontal",

@@ -139,7 +139,7 @@
                                                             "href": {
                                                                 "url": "https://sandhyasrini.github.io/json/Zoom.json",
                                                                 "options": {
-                                                                    "file_name": "file://3.jpeg"
+                                                                    "file_name": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/3.jpeg"
                                                                 }
                                                               }
                                                             
@@ -148,7 +148,7 @@
                                                 },{
         
                                                         "type": "image",
-                                                        "url": "file://3.jpeg"
+                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/3.jpeg"
                                                     },
                                                     {
                                                         "type": "horizontal",
