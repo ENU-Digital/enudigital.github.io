@@ -170,7 +170,7 @@
 
                                                                         },
                                                                         "type": "image",
-                                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/noimage.png"
+                                                                        "url": "local://{{$jason.file_name}}"
                                                                     },
                                                                     {
                                                                         "type": "button",
