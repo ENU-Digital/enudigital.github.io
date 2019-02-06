@@ -149,7 +149,7 @@
                                         "components": [{
 
                                                 "type": "image",
-                                                "url": "file://img4.jpeg",
+                                                "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/img4.jpeg",
                                                 "style": {
                                                     "width": "50%",
                                                     "ratio": "2",
@@ -160,7 +160,7 @@
                                             {
 
                                                 "type": "image",
-                                                "url": "file://img5.jpeg",
+                                                "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/img5.jpeg",
                                                 "style": {
                                                     "width": "48%",
                                                     "ratio": "2",

@@ -139,7 +139,7 @@
                                                                 "href": {
                                                                     "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/json/Zoom.json",
                                                                     "options": {
-                                                                        "file_name": "file://2.jpeg"
+                                                                        "file_name": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/2.jpeg"
                                                                     }
                                                                   }
                                                                 
@@ -149,7 +149,7 @@
                                                 {
         
                                                         "type": "image",
-                                                        "url": "file://2.jpeg"
+                                                        "url": "https://raw.githubusercontent.com/ENU-Digital/enudigital.github.io/master/images/2.jpeg"
                                                     },
                                                     {
                                                         "type": "horizontal",
